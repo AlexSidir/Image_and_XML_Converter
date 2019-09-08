@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bike_left</folder>
+	<filename>left (10).jpg</filename>
+	<path>C:\Users\AlexSid\Desktop\Alex\Studies\BachelorThesis\Converter\bike_left\left (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike_left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>114</ymin>
+			<xmax>840</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+</annotation>
